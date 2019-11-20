@@ -1,6 +1,8 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to Shirley Alpizar's Resume Website
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+This is my personal resume website that gives you an insight to my career goals and prior achievements. 
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
+
+
+![This is my screen](img/Photo1.png) 
